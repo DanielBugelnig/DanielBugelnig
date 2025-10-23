@@ -1,20 +1,20 @@
 # Hi 👋, I'm Daniel Bugelnig
 
 I'm a passionate researcher and developer in **Robotics, AI, and Autonomous Systems**.  
-Finished my **Bachelor’s in Information Technology** at [University of Klagenfurt](https://www.aau.at/), continouing since 2025 with a Masters in **Information and Communications Engineering** with Focus on **Autonomous Systems**  
+Finished my **Bachelor’s in Information Technology** at [University of Klagenfurt](https://www.aau.at/), continuing since 2025 with a Master's in **Information and Communications Engineering** with focus on **Autonomous Systems**.  
 I’ve worked on projects in **multi-drone path planning**, **3D reconstruction**, and **AI-based vision**.  
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 
-- 🧠 **Adaptive flight planning** for neural 3D reconstruction with Bitcraze Crazyflie drones  
-- 🤖 Swarm coordination using **Potential Field algorithms** and **thread-synchronized path planning**  
-- 🧩 Custom C++/Python framework for **search and planning visualization**  
+- **Adaptive flight planning** for neural 3D reconstruction with Bitcraze Crazyflie drones  
+- Swarm coordination using **Potential Field algorithms** and **thread-synchronized path planning**  
+- Custom C++/Python framework for **search and planning visualization**  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, Java, SQL, MATLAB  
 **Frameworks:** PyTorch, ROS Noetic, Crazyswarm, OpenCV  
